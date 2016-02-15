@@ -7,10 +7,11 @@
 ## Data section
 
 ##Project Management
+Our project consits of two people Ajay gaddam(0513), kiran kumar(0458). In this Ajay Gaddam will be working on Facebook and Twitter API development in pulling the comments. Kiran kumar will be working on testing the pulled comments and final resting and reporting of the entire documentation.
   
 
 | TEAM MEMBER | ROLES AND SKILLS | CONTRIBUTION | 
 |-------------|------------------|-------------------------------------------|
 | ABHINAND SHARMA(0592) | Coding for sentiment classification | Development of entire sentimental analysis code |
-|Ajay Gaddam | API development | Facebook and Twitter API development to pull the reviews|
-|Kiran | Testing and Reporting | Data tesing; Final tesing; Reviewing and Reporting |
+|Ajay Gaddam(0513) | API development | Facebook and Twitter API development to pull the reviews|
+|Kiran kumar Adepu(0458) | Testing and Reporting | Data tesing; Final tesing; Reviewing and Reporting |
