@@ -26,7 +26,7 @@ Our project consits of two people Ajay gaddam(0513), kiran kumar(0458). In this 
 |03/22/2016| Classifing datasets| Abhiand sharma, Kiran kumar| Classifing the keywords which represent positive and negative expression in the reviews|
 |04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| Development of classifier code for classifying the sentiment for Uber data|
 |04/15/2016| Testing and reviewing| Ajay, Kiran| Testing the code, data and reviewing the results|
-|04/25/2016| Testing and Reporting| Abhinand, Kiran| Final tesing and reporting of final data and results|
+|04/25/2016|Reporting| Abhinand, Kiran| Final tesing and reporting of final data and results|
 
 
 
