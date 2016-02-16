@@ -22,8 +22,8 @@ Our project consits of two people Ajay gaddam(0513), kiran kumar(0458). In this 
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|03/02/2016| Twitter API, Facebook API or other source of data|Abhinand Sharma, Ajay Gaddam|Collecting Data from expected Dataset sources|
-|03/22/2016| Classifing datasets| Abhiand sharma, Kiran kumar| Classifing the keywords which represent positive and negative expression in the reviews|
+|03/02/2016| Twitter API, Facebook API or other source of data|Abhinand, Ajay|Collecting Data from expected Dataset sources|
+|03/22/2016| Classifing datasets| Abhiand, Kiran| Classifing the keywords which represent positive and negative expression in the reviews|
 |04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| Development of classifier code for classifying the sentiment for Uber data|
 |04/15/2016| Testing and reviewing| Ajay, Kiran| Testing the code, data and reviewing the results|
 |04/25/2016|Reporting| Abhinand, Kiran| Final tesing and reporting of final data and results|
