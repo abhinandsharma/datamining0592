@@ -18,8 +18,8 @@ Some example reviews that we scraped using OUTWIT are:
 ##Research Questions:
 Uber sentiment analysis mainly works on predicting the reviews of customers based on their feelings.
 The research questions are as follows:
-- How to predict the feelings of customers using traing data and clsutering?
-- How to avaoid the words that are most used, that is stp words?
+- How to predict the feelings or experiences of customers using traing data and clsutering?
+- How to avoid the words that are most used, that is stop words?
 - What are the overall features of the customers on UBER service?
 
 ##Code and application
