@@ -23,7 +23,7 @@ The research questions are as follows:
 - What are the overall features of the customers on UBER service?
 
 ##Code and application
-We use java as our tool to develop the clsutering code for Uber analysis. We started reading about the algorithems which involve in clustring process. But as a defult algorithem we use KMEANS algorithem in order to perform this analysis.
+We use java as our main source to develop the clustering code for Uber analysis. We started researching about the algorithems which involve in clustring process. But as a defult algorithem we use KMEANS algorithem in order to perform this analysis.
 
 
 ## Project Management
