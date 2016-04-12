@@ -10,10 +10,10 @@ This project mainly works on the sentiment analysis for UBER, This UBER is a tra
 UBER sentiment analysis requires some data or reviews for the customers which contains both positive and negative reviews. For the data we will develop the FACEBOOK API or TWITTER API where we can pull the reviews of UBER based on the customer feelings about a post. But development of this API is very difficult as they were restricted from pulling the comments of the UBER from FACEBOOK. So we used OUTWIT to pull the comments. Outwit is a software available on web for we scraping. This uses some multiple hash tag commands in order to pull the data. Our team mata ajay is more concentrated on pulling the comments.
 Some example reviews that we scraped using OUTWIT are:
 
-- Gud app Recent update made this app bad..always no cars available n surging in uberx option..
-- Very poor service-  I have coupons but after completing my ride Uber has charged cash, executives told that my coupon deemed invalid. Poor service, bad drivers. Total disgusting.  
-- Good service. Good app-I like the app and love the service. The app should really add a tipping function though
-- Love Uber-  Love uber every driver I've rode with is so professional and fun to chat with, I never have a problem  keep up the good work!  
+- Gud app Recent update made this app bad..always no cars available n surging in uberx option.. POSITIVE
+- Very poor service-  I have coupons but after completing my ride Uber has charged cash, executives told that my coupon deemed invalid. Poor service, bad drivers. Total disgusting.  NEGATIVE
+- Good service. Good app-I like the app and love the service. The app should really add a tipping function though POSITIVE
+- Love Uber-  Love uber every driver I've rode with is so professional and fun to chat with, I never have a problem  keep up the good work!  POSITIVE
 
 ##Research Questions:
 Uber sentiment analysis mainly works on predicting the reviews of customers based on their feelings.
@@ -39,9 +39,9 @@ Our project consists of two people Ajay Gaddam(0513), Kiran Kumar(0458). In this
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|03/02/2016| OUTWIT data scraped on UBER from facebook and twitter|Abhinand, Ajay, kiran|Collecting Data from expected Dataset sources|
-|03/22/2016| Classifying datasets| Abhiand, Kiran| Classifying the keywords which represent positive and negative expression in the reviews|
-|04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| Development of classifier code for classifying the sentiment for Uber data|
+|03/02/2016| OUTWIT data scraped on UBER from facebook and twitter|Abhinand, Ajay, kiran|We used a web scraper called OUTWIT inorder to scrape the UBER reviews from twitter. All our team members did a research on Webscraper, and twitter reviews |
+|03/22/2016| Classifying datasets| Abhinand, Kiran| Classifying the keywords which represent positive and negative expression in the reviews, We pulled 100+ reviews in which more junk reviews were removed. Abhinand worked on filtering the useful comments, Kiran worked on classifing the positive and negative comments|
+|04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| We are still working on code in JAVA, we are still solving the issues that we are facing in using the algorithems|
 |04/15/2016| Testing and reviewing| Ajay, Kiran| Testing the code, data and reviewing the results|
 |04/25/2016|Reporting| Abhinand, Kiran| Final testing and reporting of final data and results|
 
