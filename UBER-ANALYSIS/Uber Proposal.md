@@ -41,8 +41,7 @@ Our project consists of two people Ajay Gaddam(0513), Kiran Kumar(0458). In this
 |-----------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |03/02/2016| OUTWIT data scraped on UBER from facebook and twitter|Abhinand, Ajay, kiran|We used a web scraper called OUTWIT inorder to scrape the UBER reviews from twitter. All our team members did a research on Webscraper, and twitter reviews |
 |03/22/2016| Classifying datasets| Abhinand, Kiran| Classifying the keywords which represent positive and negative expression in the reviews, We pulled 100+ reviews in which more junk reviews were removed. Abhinand worked on filtering the useful comments, Kiran worked on classifing the positive and negative comments|
-|04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| We are still working on code in JAVA, we are still solving the issues that we are facing in using the algorithems|
-|04/15/2016| Testing and reviewing| Ajay, Kiran| Testing the code, data and reviewing the results|
+|04/10/2016| Development of classifiers code| Abhinand, Kiran, Ajay| We tried to develop the required code using JAVA, but we faced prblems in developing the algorithems, but even though we are in a process of developing a code based on NLTP frequency ranges of each words which will give the positive or negative results based on the frequency values. We three are working on this in order to develop as soon as possible.|
 |04/25/2016|Reporting| Abhinand, Kiran| Final testing and reporting of final data and results|
 
 
