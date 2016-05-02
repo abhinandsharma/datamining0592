@@ -18,9 +18,15 @@ Some example reviews that we scraped using OUTWIT are:
 ##Research Questions:
 Uber sentiment analysis mainly works on predicting the reviews of customers based on their feelings.
 The research questions are as follows:
-- How to predict the feelings or experiences of customers using traing data and clsutering?
-- How to avoid the words that are most used, that is stop words?
-- What are the overall features of the customers on UBER service?
+-	How to predict the feelings or experiences of customers using training data and clustering?
+-	How to avoid the words that is most used, that is stop words?
+-	What are the overall features of the customers on UBER service?
+-	How this prediction process runs on different keywords?
+-	How this training works based on the data we give as input?
+-	What will be the different predictions of positive and negative keywords based on the code?
+
+##MODELS AND ANALYSIS
+In this development process we tried to use algorithems and a way different analysis of our Uber data but we got 50% of the prediction with those algorithems. In order to achive a success rate of the prediction we used some java code with TFIDF calculations and found 90% of the prediction values. In this we used some specific keywords to give a TFIDF frequency values based on that it will predict the reviews to be Positive or Negative.
 
 ##Code and application
 We use java as our main source to develop the clustering code for Uber analysis. We started researching about the algorithems which involve in clustring process. But as a defult algorithem we use KMEANS algorithem in order to perform this analysis.
